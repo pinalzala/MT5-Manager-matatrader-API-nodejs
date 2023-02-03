@@ -1,0 +1,8 @@
+{
+    "Server": "Enter your Server IP here",
+    "Port": "443",
+    "User": "Enter your MT5 Manager username here",
+    "Password": "Enter your MT5 Manager Password here",
+    "Version": "1985",
+    "Agent": "WebManager"
+}
