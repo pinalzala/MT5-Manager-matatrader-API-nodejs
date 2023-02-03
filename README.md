@@ -6,9 +6,9 @@ MT5 Manager Web API is a component of the MetaTrader 5 (MT5) platform for Forex 
 
 ## Installation: 
 
-  Clone project
-  Edit "config.json" and put your MT5 manager Server IP, username and password in relevant places. 
-  Run Command : npm install
+ - Clone project
+ - Edit "config.json" and put your MT5 manager Server IP, username and password in relevant places. 
+ - Run Command : npm install
   
 Questions???
 
